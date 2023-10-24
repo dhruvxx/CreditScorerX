@@ -12,9 +12,9 @@ The implementations of the models can be found in the `models` folder. The class
 
 ## Results
 ### Accuracy 
-`Support Vector Machine` - 83.33%
-`Decision Tree` - 82.50%
-`Linear Classification` - 82.33%
-`K-Nearest Neighbors` - 81.50%
+1. `Support Vector Machine` - 83.33%
+2. `Decision Tree` - 82.50%
+3. `Linear Classification` - 82.33%
+4. `K-Nearest Neighbors` - 81.50%
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
