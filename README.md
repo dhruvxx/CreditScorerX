@@ -10,3 +10,4 @@ Credit Scoring models—`Decision Tree, Support Vector Machine, K-Nearest Neighb
 
 The implementations of the models can be found in the `models` folder. The classifiers are imported to the `main.ipynb` file for modularity and easier maintenance. 
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
