@@ -10,4 +10,11 @@ Credit Scoring models—`Decision Tree, Support Vector Machine, K-Nearest Neighb
 
 The implementations of the models can be found in the `models` folder. The classifiers are imported to the `main.ipynb` file for modularity and easier maintenance. 
 
+## Results
+### Accuracy 
+`Support Vector Machine` - 83.33%
+`Decision Tree` - 82.50%
+`Linear Classification` - 82.33%
+`K-Nearest Neighbors` - 81.50%
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
